@@ -1,4 +1,4 @@
-**Project Name: MAke My Resume**
+**Project Name: Make My Resume**
 Access the application through your web browser at (https://makemyresume.netlify.app/).
 
 **Description:**
