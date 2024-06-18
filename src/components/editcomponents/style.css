@@ -1,0 +1,23 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .f12{
+    font-size: 14px;
+  }
+  hr{
+    height: 2px; /* Adjust the height of the underline */
+    background-color: black; 
+  }
+  .eduNameYear{
+    font-weight: 700;
+  }
+  .list {
+    list-style-type: disc;
+    padding-left: 16px;
+  }
+  .courier-prime-regular {
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
