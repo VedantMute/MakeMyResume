@@ -25,7 +25,7 @@ const ScrollingMarquee: React.FC = () => {
   const words = ['Recruiter see your resume < 7 sec', 'Include Important Points', 'Add project links'];
 
   return (
-    <Marquee className="border-y-2 border-y-black bg-white py-3 font-base sm:py-5" direction="left">
+    <Marquee className="border-y-2 border-y-black bg-white py-3 font-base sm:py-5 mt-10" direction="left">
       {words.map((word, id) => (
         <div className="flex items-center" key={id}>
           <span className="mx-10 text-xl font-heading sm:text-2xl lg:text-4xl">

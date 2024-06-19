@@ -4,6 +4,7 @@ import Button from '@/components/Button'
 import img from "../../public/bg.png";
 import ImageCard from '@/components/ImageCard';
 import SparklesText from '@/magicui/sparkles-text';
+import Image from 'next/image';
 
 const Navbar = () => {
   const [navIsOpened, setNavIsOpened] = useState(false);
@@ -127,6 +128,7 @@ const MainPage = () => {
             <div className="flex flex-1 relative lg:h-auto">
               <div className="relative h-max lg:absolute left-0 top-0 flex lg:w-auto lg:mx-16 ">
                 <ImageCard/>
+                
               </div>
             </div>
           </div>
