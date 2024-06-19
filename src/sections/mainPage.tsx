@@ -126,7 +126,7 @@ const MainPage = () => {
             </div>
             <div className="flex flex-1 relative lg:h-auto">
               <div className="relative h-max lg:absolute left-0 top-0 flex lg:w-auto lg:mx-16 ">
-                <ImageCard imageUrl={'https://github.com/Vedant-edu/Resumo/blob/main/src/assets/image.png?raw=true'}/>
+                <ImageCard/>
               </div>
             </div>
           </div>
